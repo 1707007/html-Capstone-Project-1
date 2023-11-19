@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<Head> <meta charset="UTF-8"> <Title>My Resume</Title></Head>
+<Body>
+    <h1>My Resume</h1>
+    <hr>
+    <h2>Summary</h2>
+<h3>My name is Volodymyr Yefymenko. <p>I am 43 y.o. beginner in web-developing,
+    trying to master this interesting new field.</p></h3> <br>
+    <img src="../Capstone Project 1/Portrait for Capstone Project 1.jpg" height="300" alt="My portrait">
+    <h2>Education</h2>
+<h3>Date: 11/13/23 - present, <br>
+  Country: United States of America. <br>
+  Institution: www.udemy.com <br>
+  Academic program: “The complete web development bootcamp” online course.</h3>
+<h3>Date: 08/27/11 - 05/30/13 <br>
+  Country: United States of America. <br>
+  Institution: Harcum College, Bryn Mawr, PA 19010. <br>
+  Academic program: Physical Therapy Assistant. <br>
+  License issued: 07/22/2013</h3>
+<h3>Date: 03/27/08 - 12/31/10 <br>
+  Country: United States of America. <br>
+  Institution: Thomas Jefferson University, Philadelphia, PA 19107. <br>
+  Academic program: Master of Science Program in Pharmacology</h3>
+<h3> Date: 09/01/03 - 09/10/06 <br>
+  Country: Ukraine. <br>
+  Institution: Southern Plant Biotechnology Center, Ukrainian Academy of Agrarian <br>
+  Sciences and Ministry of Education and Science of Ukraine, Odessa, 65036.
+  Academic program: Postgraduate Student</h3>
+<h3>Date: 09/01/02 - 07/10/03
+  Country: Ukraine. <br>
+  Institution: Odessa National University named after Mechnikov. <br>
+  Academic program: Master of Science in Microbiology.</h3>
+<h3>Date: 09/01/98 - 04/06/02
+  Country: Ukraine. <br>
+  Institution: Odessa National University named after Mechnikov <br>
+  Academic program: Bachelor of Science in Biology.</h3>
+    <h2>Work experience</h2>
+    <h3> <ul>
+       <h5><li>I worked as a MS microbiologist at the assistant position at the Southern Plant Biotechnology Center.<br>
+        My work involved studying important pathogenic fungi <i>Fusarium graminearum</i>, <br>
+    its effects on cereal crop - corn and selection of less vulnerable corn strains. </li>
+        <li>I worked as a MS microbiologist at the assistant position at the Thomas Jefferson University.<br>
+            My work involved studying  plant biotechnology for production <br>
+        of recombinant pharmaceuticals in plants </li>
+        <li>I worked as a MS microbiologist at the assistant position at the Thomas Jefferson University.<br>
+            My work involved studying yeast meyosis process of yeasts <i>Saccharomyces cerevisiae.</i></li>
+    </h5>
+    </ul></h3>
+    <h2>Skills:
+        <h5>HTML</h5>
+    </h2>
+    <article>
+      <h1>Beginner Web Developer Goals</h1>
+      <ol>
+        <li>Study at least two hours per day.</li>
+        <li>Make sure that I do not skip any material.</li>
+        <li>Practice learned skills</li>
+        <li>Maintain motivation</li>
+      </ol>
+      <footer>
+        <p>© 2023 Volodymyr Yefymenko</p>
+      </footer>
+    </article>
+
+</Body>
